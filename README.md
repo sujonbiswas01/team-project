@@ -7,3 +7,5 @@
 4, pages folder এর ভিতরে আমাদের page গুলো থােকবে যেমন , Home,Product,About,
 
 5, shared folder এর ভিতরে আমাদের modules folder থাকবে এর ভিতরে আমাদের module থাকবে যেমন hero,feauture,contents
+
+figma file : https://www.figma.com/design/cLLWHVubF25qassMUviFQO/Figma-startup-landing-page-dark--Community-?node-id=0-3519&t=sAkq6JrRJISbF4fT-0
