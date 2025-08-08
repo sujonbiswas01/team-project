@@ -1,0 +1,5 @@
+পাবলিক ফোল্ডারের ভিতরে যে data foter আছে সেটাতে json format data,dummy data api থাকবে
+components folder এর ভিতরে reuseable components থাকবে
+layout folder এর ভিতরে মেইন পার্ট থাকবে for exampla Navbar ,Footer যেটা সব page a থাকবে
+pages folder এর ভিতরে আমাদের page গুলো থােকবে যেমন , Home,Product,About,Contact
+shared folder এর ভিতরে আমাদের modules folder থাকবে এর ভিতরে আমাদের module থাকবে যেমন hero,feauture,contents
