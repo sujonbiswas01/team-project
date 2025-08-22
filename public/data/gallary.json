@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"/images/gallaryimg1.png"
+    },
+    {
+        "id":2,
+        "img":"/images/gallaryimg2.png"
+    },
+    {
+        "id":3,
+        "img":"/images/gallaryimg3.png"
+    },
+    {
+        "id":4,
+        "img":"/images/gallaryimg4.png"
+    },
+    {
+        "id":5,
+        "img":"/images/gallaryimg5.png"
+    },
+    {
+        "id":6,
+        "img":"/images/gallaryimg6.png"
+    },
+    {
+        "id":7,
+        "img":"/images/gallaryimg7.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"/images/testomonials_img1.png",
+        "name":"Claire Bell",
+        "pro":"Designer",
+        "des":"Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year."   
+    },
+    {
+        "id":2,
+        "img":"/images/testomonials_img2.png",
+        "name":"Francisco Lane",
+        "pro":"Designer",
+        "des":"Slate helps you see how many more days  you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year."   
+    },
+    {
+        "id":3,
+        "img":"/images/testomonials_img3.png",
+        "name":"Ralph Fisher",
+        "pro":"Designer",
+        "des":"Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year."   
+    },
+    {
+        "id":4,
+        "img":"/images/testomonials_img4.png",
+        "name":"Ralph Fisher",
+        "pro":"Designer",
+        "des":"Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year."   
+    }
+]
